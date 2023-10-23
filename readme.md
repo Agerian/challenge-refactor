@@ -4,6 +4,8 @@ This project is part of a web devlopment challenge that involves refactoring
 an existing website to improve it's accessibility for all users, including
 those with disablities.
 
+Code Source - https://github.com/coding-boot-camp/urban-octo-telegram.git
+
 Accessibility Improvements
 *Added proper HTML semantics.
 *Added alt attributes to images.
